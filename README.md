@@ -1,6 +1,7 @@
 # Installation
 
 1. Create a new Visual Studio project and select either Windows Forms or WPF Application.
+
 2. Set References to LightningChart DLLs choosing the most suitable method for you:
 
    1. LightningChart trial package is downloaded and unzipped
@@ -13,7 +14,11 @@
 
       * Select the component you want to reference, and then click OK.
 
-      If you are not able to find them, the default installer directory is C:\Program Files \(x86)\Arction\LightningChart Ultimate SDK v.8\LibNET4. Navigate to the install directory and select the DLLs from there.
+      Navigate to the install directory and select the DLLs from there. If you are not able to find them, the default installer directory is
+
+      ```
+      C:\Program Files (x86)\Arction\LightningChart Ultimate SDK v.8\LibNET4
+      ```
 
    2. Manage NuGet Packages for Solution
 
