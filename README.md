@@ -1,8 +1,8 @@
 # Installation
 
-1. Create a new Visual Studio project and select either Windows Forms or WPF Application.
+##### 1. Create a new Visual Studio project and select either Windows Forms or WPF Application.
 
-2. Set References to LightningChart DLLs choosing the most suitable method for you:
+##### 2. Set References to LightningChart DLLs choosing the most suitable method for you:
 
    1. LightningChart trial package is downloaded and unzipped
 
@@ -41,7 +41,7 @@
         Install-Package LightningChartUltimateWPF8
         ```
 
-3. At this point, the solution should build and run, ready to use LightningChart for visualisation.
+##### 3. At this point, the solution should build and run, ready to use LightningChart for visualisation.
 
 
 
