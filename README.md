@@ -4,7 +4,7 @@
 
 ##### 2. Set References to LightningChart DLLs choosing the most suitable method for you:
 
-   1. LightningChart trial package is downloaded and unzipped
+   1. LightningChart trial package is downloaded and unzipped.
 
       * In Solution Explorer, right-click the project node and click Add Reference.
 
@@ -14,17 +14,17 @@
 
       * Select the component you want to reference, and then click OK.
 
-      Navigate to the install directory and select the DLLs from there. If you are not able to find them, the default installer directory is
+      Navigate to the install directory and select the DLLs from there. If you are not able to find them, the default installer directory is:
 
       ```
       C:\Program Files (x86)\Arction\LightningChart Ultimate SDK v.8\LibNET4
       ```
 
-   2. Manage NuGet Packages for Solution
+   2. Manage NuGet Packages for Solution.
 
-   3. Package Manager Console
+   3. Package Manager Console.
 
-      * Check available Arction’s packages on NuGet profile page at the following link [https://www.nuget.org/profiles/Arction](https://www.nuget.org/profiles/Arction)
+      * Check available Arction’s packages on NuGet profile page at the following link [https://www.nuget.org/profiles/Arction](https://www.nuget.org/profiles/Arction).
       * Open Package Manager Console by clicking Tools –
         NuGet
         Package Manager – Package Manager Console.
@@ -41,7 +41,4 @@
         Install-Package LightningChartUltimateWPF8
         ```
 
-##### 3. At this point, the solution should build and run, ready to use LightningChart for visualisation.
-
-
-
+##### 3. At this point, the solution should build and run, ready to use LightningChart for visualization.
