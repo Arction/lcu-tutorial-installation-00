@@ -8,7 +8,7 @@
 
       * In Solution Explorer, right-click the project node and click Add Reference.
 
-      * In the Add Reference dialog box or \(Reference Manager\), use search field and start typing “LightningChartUltimate”.
+      * In the Add Reference dialog box or \(Reference Manager\), use search field and start typing “LightningChart”.
 
       * Move mouse over a component to see a short description.
 
@@ -17,7 +17,7 @@
       Navigate to the install directory and select the DLLs from there. If you are not able to find them, the default installer directory is:
 
       ```
-      C:\Program Files (x86)\Arction\LightningChart Ultimate SDK v.8\LibNET4
+      C:\Program Files (x86)\Arction\LightningChart .NET SDK v.10\LibNET4
       ```
 
    2. Manage NuGet Packages for Solution.
@@ -32,13 +32,13 @@
         For WindowsForms project:
 
         ```
-        Install-Package LightningChartUltimateWinForms8
+        Install-Package LightningChartWinForms10
         ```
 
         For Windows Presentation Foundation:
 
         ```
-        Install-Package LightningChartUltimateWPF8
+        Install-Package LightningChartWPF10
         ```
 
 ##### 3. At this point, the solution should build and run, ready to use LightningChart for visualization.
